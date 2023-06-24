@@ -6,7 +6,7 @@
     'website': 'www.rami',.com',
     'category': 'Automotive',
     'summary': 'Car archive management system',
-    'description': 'Car archive management system',
+    'description': 'Car archive system',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
